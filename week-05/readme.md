@@ -1,4 +1,4 @@
-1. 我的網址：https://www.wenchang.dev 和 https://wenchang.dev。
+1. 我的網址：https://www.wenchang.dev 和 https://wenchang.dev
 
 更新 nginx.conf 的 server block
 ```nginx
